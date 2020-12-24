@@ -12,4 +12,5 @@ Join our Telegram group [here](https://t.me/yaapcommon)
 
 ## Buy us a coffee or beer
 All our work is open source and made available for anyone to use, any contibutions would only help in continuing development
+
 [PayPal](https://www.paypal.me/generichandle)
